@@ -1,0 +1,15 @@
+h1 {font-family: tensentype-jiali-xianboheijf, sans-serif;
+font-weight: 500;
+font-style: normal;
+font-size: 120px;}
+
+
+
+a:hover {
+    transform: scale(20%);
+}
+
+.repeat{
+    background-image: url("images/XiBook.jpeg");
+    background-repeat: repeat;
+}
